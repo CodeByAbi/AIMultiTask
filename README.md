@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MultitaskAIS
 
 #### We have moved!!!. Check out https://github.com/CIA-Oceanix/GeoTrackNet for the lastest verion.
@@ -162,3 +163,6 @@ We would also like to thank Jetze Schuurmans for helping convert the code from P
 
 ### Contact
 For any questions, please open an issue.
+=======
+# AIMultiTask
+>>>>>>> 7b9b2346c157a31518528f7165bf8868a61e669e
